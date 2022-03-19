@@ -1,0 +1,13 @@
+.text-center {
+    background-color: black;
+    color: orange;
+    font-size: 30px;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'PT Serif', serif;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.img {
+    margin-top: 100px;
+}
